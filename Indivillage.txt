@@ -1,6 +1,6 @@
 Hello Everyone
 We re workoing on website
 frontend using HTML, Tailwind Css and Next.js
-backnd using pyhon flak
+backend using python flask
 we wll be working togethr to buld website
 hello
