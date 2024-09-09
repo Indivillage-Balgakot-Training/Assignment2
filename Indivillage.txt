@@ -1,6 +1,6 @@
 I have changed this line -Madhav G Desai
 I have changed this line- Manjunath Bilagi
-frontend using HTML, Tailwind Css and Next.js
+I have chnaged this line- Sachin kerutagi
 backend using python flask
 we wll be working togethr to buld website
 hello
