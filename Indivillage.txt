@@ -6,3 +6,4 @@ we wll be working togethr to buld website
 hello
 hi
 friends
+working on tailwind CSS
