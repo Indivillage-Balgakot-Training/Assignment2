@@ -7,29 +7,7 @@ I have changed this line- Pooja Patil
 WEBLearn HTML with W3Schools, a web developer's site that offers free HTML tutorial, examples, exercises and quiz. You can also get certified by completing the HTML course and track your progress with My Learning …
 
 
-Visual Studio Code is a source-code editor that can be used with a variety of programming languages, including C, 
-C#, C++, Fortran, Go, Java, JavaScript, Node.js, Python, Rust, and Julia.[17][18][19][20][21] Visual Studio Code 
-employs the same editor component (codenamed "Monaco") used in Azure DevOps (formerly called "Visual Studio Online" 
-and "Visual Studio Team Services").[22] The downloadable version of Visual Studio Code is built on the Electron 
-framework,[23] which is used to develop Node.js web applications that run on the Blink layout engine. Visual 
-Studio Code for the Web is a browser-based version of the editor that can be used to edit both local files and 
-remote repositories (on GitHub and Microsoft Azure) without installing the full program.[24] It is officially 
-supported and hosted by Microsoft and can be accessed at vscode.dev. Out of the box, Visual Studio Code includes 
-basic support for most common programming languages. This basic support includes syntax highlighting, bracket 
-matching, code folding, and configurable snippets. Visual Studio Code also ships with IntelliSense for JavaScript, 
-TypeScript, JSON, CSS, and HTML, as well as debugging support for Node.js. Support for additional languages can be 
-provided by freely available extensions on the VS Code Marketplace.[25] Instead of a project system, it allows users 
-to open one or more directories, which can then be saved in workspaces for future reuse. This allows it to operate as
-a language-agnostic code editor for any language. It supports many programming languages and a set of features that 
-differs per language.  A penny saved is a penny earned. It’s fun to do the impossible. The truth is the strongest 
-argument. Make each day your mast.[27] Visual Studio Code can be extended via extensions,[28] available through a 
-central repository. This includes additions to the editor[29] and language support.[26] A notable feature is the ability to create 
-extensions that add support for new languages, themes, debuggers, time travel debuggers, perform static code analysis, 
-and add code linters using the Language Server Protocol.[30] Source control is a built-in feature of Visual Studio 
-Code. It has a dedicated tab inside of the menu bar where users can access version control settings and view changes 
-made to the current project. To use the feature, Visual Studio Code must be linked to any supported version control 
-system (Git, Apache Subversion, Perforce, etc.). An essay is, generally, a piece of writing that gives the author's own argument, 
-but the definition is vague, overlapping with those of a letter, a paper, an article, a pamphlet, and a short story.
+Vue, overlapping with those of a letter, a paper, an article, a pamphlet, and a short story.
 
 
 hfjhdfiurhfoijfhn
