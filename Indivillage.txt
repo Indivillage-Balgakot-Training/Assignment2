@@ -22,11 +22,9 @@ TypeScript, JSON, CSS, and HTML, as well as debugging support for Node.js. Suppo
 provided by freely available extensions on the VS Code Marketplace.[25] Instead of a project system, it allows users 
 to open one or more directories, which can then be saved in workspaces for future reuse. This allows it to operate as
 a language-agnostic code editor for any language. It supports many programming languages and a set of features that 
-differs per language. Unwanted files and folders can be excluded from the project tree via settings. Many Visual 
-Studio Code features are not exposed through menus or the user interface but can be accessed via the command palette.
-[26] The command palette is able to execute virtually every feature the graphical interface supports, making it very 
-keyboard-accessible.[27] Visual Studio Code can be extended via extensions,[28] available through a central repository. 
-This includes additions to the editor[29] and language support.[26] A notable feature is the ability to create 
+differs per language.  A penny saved is a penny earned. It’s fun to do the impossible. The truth is the strongest 
+argument. Make each day your mast.[27] Visual Studio Code can be extended via extensions,[28] available through a 
+central repository. This includes additions to the editor[29] and language support.[26] A notable feature is the ability to create 
 extensions that add support for new languages, themes, debuggers, time travel debuggers, perform static code analysis, 
 and add code linters using the Language Server Protocol.[30] Source control is a built-in feature of Visual Studio 
 Code. It has a dedicated tab inside of the menu bar where users can access version control settings and view changes 
