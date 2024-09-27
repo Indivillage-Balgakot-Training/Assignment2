@@ -6,7 +6,6 @@ I have changed this line- Pooja Patil
 
 WEBLearn HTML with W3Schools, a web developer's site that offers free HTML tutorial, examples, exercises and quiz. You can also get certified by completing the HTML course and track your progress with My Learning …
 
-Visual Studio Code is a source-code editor that can be used with a variety of programming languages, including C,
 C#, C++, Fortran, Go, Java, JavaScript, Node.js, Python, Rust, and Julia.[17][18][19][20][21] Visual Studio Code 
 employs the same editor component (codenamed "Monaco") used in Azure DevOps (formerly called "Visual Studio Online" 
 and "Visual Studio Team Services").[22] The downloadable version of Visual Studio Code is built on the Electron 
